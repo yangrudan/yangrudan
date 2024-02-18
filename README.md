@@ -13,7 +13,6 @@
 [![](https://img.shields.io/badge/知乎-新战鲸-red.svg)](https://www.zhihu.com/people/da-yu-hai-tang-15-70)
 [![](https://img.shields.io/badge/CSDN-天空是什么颜色-blue.svg)](https://blog.csdn.net/weixin_41808500)
 
-![](https://img.shields.io/badge/ubuntu-22.04-<COLOR>.svg)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx)
