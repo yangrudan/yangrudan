@@ -8,7 +8,7 @@
 
 - 🤩你好呀！💡
 
-- 🤔这里是Cookie的小仓库 & 努力成为一名滚滚向前的全栈工程师
+- 🤔这里是Cookie的小仓库 & 努力成为一名全栈工程师
 
 [![](https://img.shields.io/badge/知乎-新战鲸-red.svg)](https://www.zhihu.com/people/da-yu-hai-tang-15-70)
 [![](https://img.shields.io/badge/CSDN-天空是什么颜色-blue.svg)](https://blog.csdn.net/weixin_41808500)
