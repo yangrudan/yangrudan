@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm Cookie </h2>
+<h2 align="center">👋 Hey! I'm Cookie 🍪 </h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
@@ -9,10 +9,6 @@
 - 🤔这里是Cookie的小仓库 & 努力成为一名滚滚向前的全栈工程师
 
 - ⚡ Fun fact: 喜欢甜甜圈圈，喜欢小柯基
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 [![](https://img.shields.io/badge/知乎-新战鲸-red.svg)](https://www.zhihu.com/people/da-yu-hai-tang-15-70)
 [![](https://img.shields.io/badge/CSDN-天空是什么颜色-blue.svg)](https://blog.csdn.net/weixin_41808500)
