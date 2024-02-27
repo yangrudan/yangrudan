@@ -6,9 +6,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yangrudan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🤩你好呀！💡
+- 🤩欢迎光临！💡
 
-- 🤔这里是Cookie的小仓库 & 努力成为一名全栈工程师
+- 🤔这里是Cookie的小仓库
 
 [![](https://img.shields.io/badge/知乎-新战鲸-red.svg)](https://www.zhihu.com/people/da-yu-hai-tang-15-70)
 [![](https://img.shields.io/badge/CSDN-天空是什么颜色-blue.svg)](https://blog.csdn.net/weixin_41808500)
