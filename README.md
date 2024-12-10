@@ -14,11 +14,12 @@
 [![](https://img.shields.io/badge/CSDN-天空是什么颜色-blue.svg)](https://blog.csdn.net/weixin_41808500)
 
 - *Skill Development*:
-  
-![](https://img.shields.io/badge/Python-red?style=flat-square&logo=python) 
-![](https://img.shields.io/badge/QT-blue?style=flat-square&logo=QT) 
+
+
 ![](https://img.shields.io/badge/LabVIEW-blue?style=flat-square&logo=LabVIEW) 
 ![](https://img.shields.io/badge/C++-red?style=flat-square&logo=C) 
 ![](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=Rust) 
 ![html](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/Python-red?style=flat-square&logo=python) 
+![](https://img.shields.io/badge/QT-blue?style=flat-square&logo=QT) 
