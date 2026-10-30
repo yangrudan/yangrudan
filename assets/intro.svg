@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="40" viewBox="0 0 240 40" role="img" aria-labelledby="title">
+  <title id="title">写代码，也写文章。</title>
+  <style>
+    .text { fill: #57606a; }
+    .cursor { fill: #57606a; transform: translateX(180px); animation: cursor-move 7s steps(9, end) infinite, blink 1s step-end infinite; }
+    .reveal { animation: typing 7s steps(9, end) infinite; }
+    @keyframes typing {
+      0%, 10% { width: 0; }
+      55%, 100% { width: 180px; }
+    }
+    @keyframes cursor-move {
+      0%, 10% { transform: translateX(0); }
+      55%, 100% { transform: translateX(180px); }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .text, .cursor { fill: #b1bac4; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal, .cursor { animation: none; }
+      .cursor { display: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="text-clip" clipPathUnits="userSpaceOnUse">
+      <rect class="reveal" width="180" height="40"/>
+    </clipPath>
+  </defs>
+  <text class="text" x="0" y="28" font-family="system-ui, -apple-system, 'Segoe UI', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="20" textLength="180" lengthAdjust="spacingAndGlyphs" clip-path="url(#text-clip)">写代码，也写文章。</text>
+  <rect class="cursor" x="2" y="9" width="2" height="22"/>
+</svg>
