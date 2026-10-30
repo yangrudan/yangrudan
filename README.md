@@ -1,6 +1,6 @@
 # Cookie 不是小饼干
 
-<img src="./assets/intro.svg" width="240" height="40" alt="写代码，也写文章。" />
+<img src="./assets/intro.svg" width="240" height="40" alt="往者不谏, 来者可追。" />
 
 平时写 C++、Rust，做工具会用 Python、Qt 和 LabVIEW，也折腾 HTML、CSS。
 
